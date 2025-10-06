@@ -1,4 +1,4 @@
-# SocialBoost<!DOCTYPE html>
+# SocialBoost
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
